@@ -1,0 +1,5 @@
+{
+  "environment": "testnet",
+  "apiBaseUrl": "https://api.mesh.coinbase.com",
+  "timeoutSeconds": 30
+}
