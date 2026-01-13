@@ -13,6 +13,13 @@ CLI to validate the correctness of Mesh API implementations
 
 The `mesh-cli` tool is used by developers to test the correctness of their Mesh API implementations. The CLI also provides the ability to look up block contents and account balances.
 
+## Overview
+
+mesh-cli is a command-line tool for interacting with Coinbase Mesh.
+It simplifies common Mesh operations and is designed for use in
+automation scripts, CI environments, and developer workflows.
+
+
 ## Installation
 
 To download a binary for the latest release, run:
